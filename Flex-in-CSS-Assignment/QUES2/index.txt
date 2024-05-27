@@ -1,0 +1,9 @@
+1. Justufy-content:  it is used to move the items in the main axis.
+
+2. Align-items:  it is used to move the items in the cross axis.
+
+3. gap:  it is used to get some gap ion the items of the flexbox.
+
+4. flex-direction:  it is used to change the main axis .by default it is set to row(x-axis) but we can cahnge it by this property
+
+5. flex-wrap:  sets whether flex items are forced onto one line or can wrap onto multiple lines.
